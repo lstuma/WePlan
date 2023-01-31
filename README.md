@@ -6,4 +6,4 @@ Project for SDaCathon (https://www.cyberforum.de/newsroom/das-war-der-sdacathon-
 **Server:** Python Django, Scikit
 
 ## Images
-[!GantChart Demo](https://imgur.com/SP1MrxF)
+![GantChart Demo](https://imgur.com/SP1MrxF)
